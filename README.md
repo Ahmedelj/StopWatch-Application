@@ -10,7 +10,5 @@
 
 ### DEMO ###
 
-
-
-https://github.com/Ahmedelj/eng-intern-assessment-react/assets/133712972/80e81ec6-3012-4ed7-8bc2-3567f92822bd
+https://github.com/Ahmedelj/StopWatch-Application/assets/133712972/978c3127-81f0-407a-aa21-5d1f63c5b85e
 
